@@ -1,0 +1,6 @@
+* text eol=lf
+
+*.texi linguist-detectable=true
+*.texi linguist-language=texinfo
+
+*.png binary
