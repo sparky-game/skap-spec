@@ -1,0 +1,36 @@
+@c
+@c BSD SKAP --- Sparky's AssetPack Binary Format Specification
+@c Copyright (C) 2024 Wasym A. Alonso
+@c
+@c This file is part of SKAP.
+@c
+@c SKAP is free software: you can redistribute it and/or modify
+@c it under the terms of the BSD 3-Clause "New" or "Revised" License
+@c as published by The Regents of the University of California.
+@c
+@c SKAP is distributed in the hope that it will be useful,
+@c but WITHOUT ANY WARRANTY; without even the implied warranty of
+@c MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+@c BSD 3-Clause "New" or "Revised" License for more details.
+@c
+@c You should have received a copy of the BSD 3-Clause "New" or
+@c "Revised" License along with SKAP.
+@c If not, see <https://opensource.org/license/BSD-3-Clause>.
+@c
+
+
+@ifnottex
+@node Top
+@top SKAP
+Sparky’s AssetPack (SKAP) Binary Format Specification (First Edition).
+
+Copyright @copyright{} 2024 Wasym A. Alonso.
+
+@quotation
+SKAP is free software: you can redistribute it and/or modify it under the terms of the BSD 3-Clause "New" or "Revised" License.
+
+SKAP is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the BSD 3-Clause "New" or "Revised" License for more details.
+
+You should have received a copy of the BSD 3-Clause "New" or "Revised" License along with this work. If not, see <@url{https://opensource.org/license/BSD-3-Clause}>.
+@end quotation
+@end ifnottex
