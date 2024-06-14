@@ -3,6 +3,40 @@
 # Logo & Title
 #+TITLE: SKAP Specification
 
+# Logo & Title
+#+begin_html
+<h1 align="center">
+<img src="assets/logo.png" alt="SKAP Logo">
+<br/>
+SKAP
+</h1>
+#+end_html
+
+# Subtitle
+#+begin_html
+<h4 align="center">
+Sparky's AssetPack Binary Format Specification
+</h4>
+#+end_html
+
+# Repository marketing badges
+#+begin_html
+<p align="center">
+<a href="https://www.buymeacoffee.com/iwas.coder">
+<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height=41>
+</a>
+</p>
+#+end_html
+
+# Repository info badges
+#+begin_html
+<p align="center">
+<img src="https://img.shields.io/github/license/sparky-game/skap-spec?color=blue" alt="License">
+<img src="https://img.shields.io/github/repo-size/sparky-game/skap-spec?color=blue" alt="Size">
+<img src="https://img.shields.io/github/v/tag/sparky-game/skap-spec?color=blue" alt="Release">
+</p>
+#+end_html
+
 (...)
 
 # BSD-3-Clause License notice
